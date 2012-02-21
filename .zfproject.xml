@@ -13,7 +13,9 @@
         </controllerFile>
         <controllerFile controllerName="Error"/>
       </controllersDirectory>
-      <formsDirectory enabled="false"/>
+      <formsDirectory>
+        <formFile formName="Catequisando"/>
+      </formsDirectory>
       <layoutsDirectory enabled="false"/>
       <modelsDirectory/>
       <modulesDirectory enabled="false"/>
